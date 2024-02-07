@@ -1,0 +1,1 @@
+Cada uma das ramificações contém os dados de cada uma das pessoas utilizadas para a realização dos testes, além de um último ramo para o anexo que inclui os documentos utilizados para a realização dos testes vazios.
